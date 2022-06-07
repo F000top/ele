@@ -1,0 +1,14 @@
+/* 总容器 */
+.wrapper{
+    width: 100%;
+    height: 100%;
+}
+
+
+/* 头部 */
+.wrapper header{
+    width: 100%;
+    height: 12vw;
+    background-color: #0097ff;
+    
+}
